@@ -6,7 +6,7 @@ This wiki is the main source of documentation for developers working with (or co
 
 | Getting Started             | Kubo UI              | Kubo Core          | Modules and Plugins        |
 |-----------------------------|----------------------|--------------------|---------------------|
-| [Prerequisites](getting-started) | [houseafrica/kubo-ui](kubo-ui)       | [houseafrica/kubo-core](kubo-core) | [houseafrica/kubo-plugins](kubo-plugins), [houseafrica/kubo-schema](kubo-schema)|
+| [Prerequisites](https://github.com/houseafrica/kubo-wiki/wiki/getting-started) | [houseafrica/kubo-ui](https://github.com/houseafrica/kubo-wiki/wiki/kubo-ui)       | [houseafrica/kubo-core](https://github.com/houseafrica/kubo-wiki/wiki/kubo-core) | [houseafrica/kubo-plugins](https://github.com/houseafrica/kubo-wiki/wiki/kubo-plugins), [houseafrica/kubo-schema](kubo-schema)|
 | Everything you need to know to get started | The Kubo-UI interface documentation | Documentation for the Middlewares and API Gateways for Project Kubo | Documentation for individual modules |
 
 ## Questions or need help?
